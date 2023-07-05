@@ -2,7 +2,7 @@
 
 Contains notebooks used in our publication *Cellular and molecular diversity of peripheral glia in the lung and other organs*.
 
-## Instructions for linux and macos
+## Instructions for linux and macOS
 
 1. Create a virtual environment
 
